@@ -7,4 +7,4 @@
 ---
 
 ## 📌 Project Overview
-This repository contains source code and Proteus schematic simulations for **Lab 1: Timer Interrupt and LED Scanning**. Get to know with how to set up Timer Interrupt, simulate LED Scanning.
+This repository contains source code and Proteus schematic simulations for **Lab 2: Timer Interrupt and LED Scanning**. Get to know with how to set up Timer Interrupt, simulate LED Scanning.
