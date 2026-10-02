@@ -268,7 +268,7 @@ int main(void)
   updateClockBuffer();
   setTimer0(1000);
   setTimer1(250);
-  setTimer2(25);
+  setTimer2(20);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -277,7 +277,7 @@ int main(void)
   {
 	  if(timer2_flag == 1)
 	  {
-		  setTimer2(25);
+		  setTimer2(20);
 		  updateLEDMatrix(index_led_matrix++);
 		  if (index_led_matrix >= MAX_LED_MATRIX)
 			  index_led_matrix = 0;
